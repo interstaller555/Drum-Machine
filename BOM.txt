@@ -1,0 +1,7 @@
+Drum Machine Components:
+
+1x Selectro Switches: https://amzn.to/3kDn1vR
+2x 100k pcb mount pots (buy two packages): https://amzn.to/3XWwigT
+1x DAC: https://amzn.to/3XWwigT
+resistor pack: https://amzn.to/3XO6WBA
+PCB: Pending!!!!
