@@ -1,8 +1,13 @@
-Drum Machine Components:
+Drum Machine Components (Some components come in multiples, these are the most cost effective i've been able to find):
 
 1x Selectro Switches: https://amzn.to/3kDn1vR
 2x 100k pcb mount pots (buy two packages): https://amzn.to/3XWwigT
 1x DAC: https://amzn.to/3XWwigT
 1x resistor pack: https://amzn.to/3XO6WBA
 2x Knobs: https://amzn.to/3XO6WBA
+1x Power Buck: https://amzn.to/3DaI5QL
+1x DC Jack: https://amzn.to/3wrz8Pi
+1x LED: https://amzn.to/3wsgXZE
+
+
 PCB: Pending!!!!
